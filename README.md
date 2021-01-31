@@ -1,5 +1,3 @@
 # AroundMe
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/lsIOJSiexKE" type="video/mp4">
-</video>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=lsIOJSiexKE&feature=youtu.be&ab_channel=Jeeedz)
