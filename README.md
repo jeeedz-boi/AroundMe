@@ -1,5 +1,5 @@
 # AroundMe
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/lsIOJSiexKE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/lsIOJSiexKE" type="video/mp4">
+</video>
